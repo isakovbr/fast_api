@@ -1,5 +1,5 @@
 # fast_api
-This repository for training deploying FastAPI application on Heroku using Travis CI
+This repository for training deploying FastAPI application on Heroku using Travis CI.
 [![Build Status](https://app.travis-ci.com/isakovbr/fast_api.svg?branch=main)](https://app.travis-ci.com/isakovbr/fast_api)
 ## Travis CI
 https://app.travis-ci.com/github/isakovbr/fast_api
