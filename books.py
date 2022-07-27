@@ -27,7 +27,7 @@ class Book(BaseModel):
 BOOKS = []
 
 
-@app.get("/")
+@app.get("/list")
 def read_api(db: Session = Depends(get_db)):
     return db.query(models.Books).all()
 
